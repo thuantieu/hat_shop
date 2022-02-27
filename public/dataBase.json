@@ -1,0 +1,206 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "p_code": 101,
+      "title": "Sia",
+      "desc": "Brown Sia",
+      "availableSizes": ["M", "X", "L", "XXL"],
+      "price": 18.4
+      
+    },
+
+    {
+      "id": 2,
+      "p_code": 102,
+      "title": "Flower",
+      "desc": "Green Flower",
+      "availableSizes": ["X", "XS", "XL"],
+      "price": 27.6
+      
+    },
+
+    {
+      "id": 3,
+      "p_code": 103,
+      "title": "Tinka",
+      "desc": "Mild brown Tinka",
+      "availableSizes": ["XL", "XS", "L"],
+      "price": 15.8
+      
+    },
+
+    {
+      "id": 4,
+      "p_code": 104,
+      "title": "Lexy",
+      "desc": "White Lexy",
+      "availableSizes": ["XL", "M", "X"],
+      "price": 14.9
+      
+    },
+
+    {
+      "id": 5,
+      "p_code": 105,
+      "title": "Danno",
+      "desc": "Brown Danno",
+      "availableSizes": ["S", "M", "XL"],
+      "price": 16.2
+      
+    },
+
+    {
+      "id": 6,
+      "p_code": 106,
+      "title": "Bohemian",
+      "desc": "Bohemian grey",
+      "availableSizes": ["M", "L", "XXL"],
+      "price": 12.7
+      
+    },
+
+    {
+      "id": 7,
+      "p_code": 107,
+      "title": "Kennie",
+      "desc": "Kennie",
+      "availableSizes": ["S", "M", "XL" ],
+      "style": "Trending",
+      "price": 27.4
+      
+    },
+
+    {
+      "id": 8,
+      "p_code": 108,
+      "title": "Vintage",
+      "desc": "Vintage",
+      "availableSizes": ["M", "L"],
+      "style": "Vintage",
+      "price": 21.8
+      
+    },
+    {
+      "id": 9,
+      "p_code": 109,
+      "title": "Katchu",
+      "desc": "Blue White Katchu",
+      "availableSizes": ["XS", "S", "XL"],
+      "price": 16.7
+      
+    },
+    {
+      "id": 10,
+      "p_code": 110,
+      "title": "Jimmibo",
+      "desc": "Black Jimmibo",
+      "availableSizes": ["M", "S", "XS"],
+      "price": 19.3
+      
+    },
+    {
+      "id": 11,
+      "p_code": 111,
+      "title": "Saraton",
+      "desc": "",
+      "availableSizes": ["L", "XXL"],
+      "price": 22.5
+      
+    },
+    {
+      "id": 12,
+      "p_code": 112,
+      "title": "Lilly",
+      "desc": "",
+      "availableSizes": ["M", "S", "L"],
+      "price": 13.4
+      
+    },
+
+    {
+      "id": 13,
+      "p_code": 113,
+      "title": "Minota",
+      "desc": "Minota",
+      "availableSizes": ["M", "X", "L", "XXL"],
+      "price": 25.9
+      
+    },
+
+    {
+      "id": 14,
+      "p_code": 114,
+      "title": "Kori",
+      "desc": "Pink Kori",
+      "availableSizes": ["X", "XS", "XL"],
+      "price": 36.4
+      
+    },
+
+    {
+      "id": 15,
+      "p_code": 115,
+      "title": "Limano",
+      "desc": "Red Limano",
+      "availableSizes": ["XL", "XS", "L"],
+      "price": 24.1
+      
+    },
+
+    {
+      "id": 16,
+      "p_code": 116,
+      "title": "Helana",
+      "desc": "Helana",
+      "availableSizes": ["XL", "M", "X"],
+      "price": 26.4
+      
+    },
+
+    {
+      "id": 17,
+      "p_code": 117,
+      "title": "Karu",
+      "desc": "Karu",
+      "availableSizes": ["S", "M", "XL"],
+      "price": 18.4
+      
+    },
+
+    {
+      "id": 18,
+      "p_code": 118,
+      "title": "Jasmina",
+      "desc": "Jasmina",
+      "availableSizes": ["M", "L", "XXL"],
+      "price": 39.7
+      
+    },
+
+    {
+      "id": 19,
+      "p_code": 119,
+      "title": "Tino",
+      "desc": "Tino",
+      "availableSizes": ["S", "M", "XL" ],
+      "style": "Trending",
+      "price": 28.4
+      
+    },
+
+    {
+      "id": 20,
+      "p_code": 120,
+      "title": "Fisy ",
+      "desc": "Fisy",
+      "availableSizes": ["M", "L"],
+      "style": "Vintage",
+      "price": 14.8
+      
+    }
+
+
+
+  ]
+}
